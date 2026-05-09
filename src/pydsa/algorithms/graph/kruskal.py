@@ -1,4 +1,4 @@
-from ...data_structures.sets.disjoint_set import DisjointSet
+from pydsa.data_structures import DisjointSet
 from typing import Any
 
 def kruskal(edge_list: list[tuple[Any, Any, int]]) -> list[tuple[Any, Any, int]]:

@@ -22,3 +22,15 @@ htmlcov/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Eggs
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
